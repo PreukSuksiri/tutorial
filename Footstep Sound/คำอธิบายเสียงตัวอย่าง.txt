@@ -1,0 +1,6 @@
+1 พื้นหิน	Footstep3
+2 หญ้าสูง	Blow2
+3 ทราย	Footstep1
+4 หญ้าเตี้ย	Footstep4
+5 น้ำ	Footstep5
+6 คริสตัล 	Hammer
