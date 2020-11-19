@@ -1,0 +1,33 @@
+1.) คราฟไอเทม
+<craft item:17:5>
+
+2.) คราฟไอเทมแบบใช้วัตถุดิบหลายชิ้น
+<craft item:17:5>
+<craft item:23:2>
+<craft item:41:3>
+
+3.) คราฟไอเทมแบบได้ผลลัพธ์หลายชิ้น
+<craft item:17:5>
+<craft yield:2>
+
+4.) คราฟไอเทมแบบใช้เงิน
+<craft item:17:5>
+<craft gold:10>
+
+5.) คราฟไอเทมแบบใช้สวิตช์ซ่อน/แสดงสูตร
+<craft item:17:5>
+<craft switch:1>
+
+6.) อัพเกรดอาวุธ
+<craft weapon:1:1>
+<craft item:46:1>
+
+7.) คราฟโดยใช้ไอเทมสูตร
+<craft recipe:68>
+<craft item:25:10>
+<craft item:29:5>
+
+8.) แยกไอเทม
+<craft break item:17:2>
+<craft break item:23:1>
+
